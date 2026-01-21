@@ -10,3 +10,12 @@ if a1==a1[::-1]:
    print("Palindrome")
 else:
     print("Not Palindrome")
+
+
+
+
+num=int(input("Enter a Number:"))
+if num%2==0 :
+    print("Number is Even")
+else:
+    print("Number is Odd")
