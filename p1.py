@@ -19,3 +19,8 @@ if num%2==0 :
     print("Number is Even")
 else:
     print("Number is Odd")
+a=12
+if a==12:
+  print("true")
+else:
+  print("false")
